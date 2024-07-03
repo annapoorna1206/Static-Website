@@ -1,0 +1,43 @@
+
+.clr1 ul{
+    background-color: brown;
+}
+
+.clr1 li{
+    display:inline;
+    padding:20px;
+    color:white;
+}
+
+.clr2{
+    background-color: rgb(4, 4, 41);
+    color:white;
+}
+.clr2 li{
+    display:inline;
+    padding:20px;
+    /*float: right;
+    background-color: rgb(2, 2, 52);*/
+    color:white;
+}
+.placement
+{
+  color:brown;
+}
+
+.clr3{
+    color:white;
+    background-color: rgb(2, 2, 46);
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+  
+}
+.news
+{
+    color: brown;
+}
+.class1
+{
+    padding: 20px;
+}
